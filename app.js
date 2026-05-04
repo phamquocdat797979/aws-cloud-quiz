@@ -231,7 +231,7 @@ function renderQuestion() {
                 </div>
             </div>
             
-            <div class="quiz-actions" style="display: flex; justify-content: space-between; align-items: center;">
+            <div class="quiz-actions">
                 ${prevBtn}
                 ${revealBtn}
                 ${nextBtn}
